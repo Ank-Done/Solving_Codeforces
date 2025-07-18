@@ -1,20 +1,24 @@
-# 🚀 Codeforces Solutions
+# ⚡ Codeforces AC Solutions 🔥
 
-![Codeforces Logo](https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png)
+![Codeforces Banner](https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png)
 
-Repositorio con mis soluciones aceptadas en Codeforces (todas en C++).
+💻 My collection of accepted C++ solutions from Codeforces 🏆
 
-## 🏅 Metas
-- [x] Pupil
-- [ ] Specialist  
-- [ ] Expert
-- [ ] Candidate Master
+## 🎯 Current Goals
+✅ [ ] Pupil  
+🔵 [ ] Specialist  
+🟣 [ ] Expert  
+🟡 [ ] Candidate Master  
 
-## 🤝 Cómo contribuir
-1. Haz fork al repo
-2. Añade/mejora soluciones
-3. Envía un PR
-4. ¡A programar!
+## 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-⭐ **Dale estrellita** si te sirve  
-💡 **Sugerencias** - abre un issue
+## 🤝 How to Contribute
+1. 🍴 Fork repo  
+2. ➕ Add your AC code  
+3. 🎣 Submit PR  
+
+⭐ Star if helpful!  
+🐛 Found issues? Open an issue!  
+
+*"First solve, then optimize" - Ancient Competitive Programming Proverb*  
