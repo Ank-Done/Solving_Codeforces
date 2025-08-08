@@ -1,3 +1,15 @@
 -----19/07/2025-----
 
-Today I participated in my first codeforces contest for div 2-1. It was cool. I was able to solve 1 problem out of the 6 available and I am still in the process of solving more problems similar to those appearing in the competition. They defenetly put a challenge on me. Hope to one day be able to solve even harder ones.
+Today I participated in my first codeforces contest for div 2-1. It was cool. 
+I was able to solve 1 problem out of the 6 available and I am still in the process of solving more problems similar to those appearing in the competition. 
+They defenetly put a challenge on me. 
+Hope to one day be able to solve even harder ones.
+
+-----08/08/2025-----
+
+My  journey in CS continues, I have stopped to develop solutions in Codeforeces;
+I do not think that my passion has decreased, I just wanted to understand bette multiple methods,
+and librares for me tu utilize in these problems,
+I want to have a bertter understanding into data structures,
+and the use of ponters so I can manage my applications
+in a better way
